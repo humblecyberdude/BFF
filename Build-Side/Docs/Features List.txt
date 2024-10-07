@@ -1,0 +1,24 @@
+ 
+IDEAS LIST
+ - Instead of having a GUI (complicated/out of my wheelhouse), use functional commands to interact with Backstop API server and also translate hashes to names if possibled.
+ - Need central config file for variables. For example:
+	+ Proxy subnets
+	+ Regex for hostnames
+	+ Regex for usernames
+	+ etc.
+ - Use tags
+
+FEATURES LIST
+ - Add the ability to target specific AD OU's
+ - Create Admin API Endpoints to Configure Endpoints and Push Code
+ - Auth with time-based token first?
+ - Get-BFFAuthToken
+ - Get-BFFEndpointDetails
+ - Get-BFFRevokedEndpoints
+ - Get-BFFValidEndpoints
+ - Get-BFFRevokedEndpoints
+ - Set-BFFEndpointTag
+ - Remove-BFFEndpointTag
+ - Revoke-BFFEndpoints
+ - Reset-BFFEndpointRateLimit
+ - Remove-BFFEndpoints ?
